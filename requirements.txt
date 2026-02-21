@@ -2,5 +2,4 @@ fastapi>=0.115.0
 uvicorn[standard]>=0.30.0
 sqlmodel>=0.0.22
 pydantic-settings>=2.3.0
-psycopg2
-
+psycopg2-binary
